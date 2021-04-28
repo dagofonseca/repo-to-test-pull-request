@@ -6,4 +6,4 @@ En esta version se borro una linea y se agrego otra.
 
 Dago Fonseca
 
-Probando reset con varios archivos
+Regresando a este commit con checkout despues de eliminarlo
