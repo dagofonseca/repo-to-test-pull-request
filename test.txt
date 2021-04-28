@@ -5,3 +5,5 @@ Esta es una linea agregada en la segunda ronda de cambios.
 En esta version se borro una linea y se agrego otra.
 
 Dago Fonseca
+
+Probando reset con varios archivos
