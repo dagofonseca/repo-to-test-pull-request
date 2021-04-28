@@ -1,0 +1,9 @@
+La linea uno de este archivo.
+
+Esta es una linea agregada en la segunda ronda de cambios.
+
+En esta version se borro una linea y se agrego otra.
+
+Dago Fonseca
+
+Regresando a este commit con checkout despues de eliminarlo
